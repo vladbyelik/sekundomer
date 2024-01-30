@@ -1,5 +1,6 @@
 {
-  "name": "g7_lec12",
+  "homepage": "https://vladbyelik.github.io/sekundomer/",
+  "name": "sekundomer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
